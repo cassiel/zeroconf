@@ -7,7 +7,7 @@ file layout.
 I've taken the liberty of enclosing binaries for Windows (in directory
 `dist') since there's an immediate need for these.
 
-I've also enclosed the current builds for OS X - (directory
+I've also enclosed the current binaries for OS X - (directory
 `dist/osx') - these weren't built directly from the distribution here,
 but as far as I know they are equivalent.
 
