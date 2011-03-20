@@ -1,8 +1,8 @@
 This is an initial release of Rémy Muller's zeroconf objects for
 MaxMSP. The sources are here, including projects for OS X (Xcode) and
-Windows (Visual Express 2008). The Windows build is current; the OS X
-build has not been exercised recently, or configured for this file
-layout.
+Windows (Visual Studio Express 2008). The Windows build is current;
+the OS X build has not been exercised recently, or configured for this
+file layout.
 
 I've taken the liberty of enclosing binaries for Windows (in directory
 `dist') since there's an immediate need for these.
