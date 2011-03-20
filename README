@@ -1,0 +1,31 @@
+This is an initial release of Rémy Muller's zeroconf objects for
+MaxMSP. The sources are here, including projects for OS X (Xcode) and
+Windows (Visual Express 2008). The Windows build is current; the OS X
+build has not been exercised recently, or configured for this file
+layout.
+
+I've taken the liberty of enclosing binaries for Windows (in directory
+`dist') since there's an immediate need for these.
+
+Windows issues:
+
+You need to install Apple's Bonjour for Windows (known as Bonjour
+Print Services). Download link here:
+
+<http://support.apple.com/kb/dl999>
+
+The Zeroconf objects need a Visual C++ runtime library in order to
+work. Download link here:
+
+<http://www.microsoft.com/downloads/en/details.aspx?FamilyID=9b2da534-3e03-4391-8a4d-074b9f2bc1bf&displaylang=en&pf=true>
+
+We've also taken the liberty of including this package here (since it
+is, after all, "redistributable").
+
+Main to-do's:
+
+- Exercise (and, if necessary, fix) builds for OS X.
+
+- Document directory structure and build procedure.
+
+-- Nick Rothwell, nick@cassiel.com
