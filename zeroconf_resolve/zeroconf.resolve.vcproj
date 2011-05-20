@@ -17,8 +17,8 @@
 	<Configurations>
 		<Configuration
 			Name="Debug|Win32"
-			OutputDirectory="..\..\..\sdk-build"
-			IntermediateDirectory="..\..\ext_win_debug"
+			OutputDirectory="..\sdk-build"
+			IntermediateDirectory="..\ext_win_debug"
 			ConfigurationType="2"
 			InheritedPropertySheets="$(VCInstallDir)VCProjectDefaults\UpgradeFromVC71.vsprops"
 			UseOfMFC="0"
@@ -51,7 +51,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="&quot;..\..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Include&quot;;..\..\"
+				AdditionalIncludeDirectories="&quot;..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Include&quot;"
 				PreprocessorDefinitions="WIN_VERSION;WIN32;_DEBUG;_WINDOWS;_USRDLL;WIN_EXT_VERSION;"
 				MinimalRebuild="true"
 				ExceptionHandling="1"
@@ -85,7 +85,7 @@
 				OutputFile="$(OutDir)/$(ProjectName).mxe"
 				LinkIncremental="1"
 				SuppressStartupBanner="true"
-				AdditionalLibraryDirectories="&quot;..\..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Lib\Win32&quot;"
+				AdditionalLibraryDirectories="&quot;..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Lib\Win32&quot;"
 				IgnoreAllDefaultLibraries="false"
 				IgnoreDefaultLibraryNames=""
 				ModuleDefinitionFile=".\zeroconf.resolve.def"
@@ -120,8 +120,8 @@
 		</Configuration>
 		<Configuration
 			Name="Release|Win32"
-			OutputDirectory="..\..\..\sdk-build"
-			IntermediateDirectory="..\..\ext_win_release"
+			OutputDirectory="..\sdk-build"
+			IntermediateDirectory="..\ext_win_release"
 			ConfigurationType="2"
 			InheritedPropertySheets="$(VCInstallDir)VCProjectDefaults\UpgradeFromVC71.vsprops"
 			UseOfMFC="0"
@@ -156,7 +156,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="3"
 				InlineFunctionExpansion="1"
-				AdditionalIncludeDirectories="&quot;..\..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Include&quot;;..\..\"
+				AdditionalIncludeDirectories="&quot;..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Include&quot;"
 				PreprocessorDefinitions="WIN_VERSION;WIN32;NDEBUG;_WINDOWS;_USRDLL;WIN_EXT_VERSION;"
 				StringPooling="false"
 				ExceptionHandling="1"
@@ -189,7 +189,7 @@
 				OutputFile="$(OutDir)/$(ProjectName).mxe"
 				LinkIncremental="1"
 				SuppressStartupBanner="true"
-				AdditionalLibraryDirectories="&quot;..\..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Lib\Win32&quot;"
+				AdditionalLibraryDirectories="&quot;..\c74support\max-includes&quot;;&quot;C:\Program Files\Bonjour SDK\Lib\Win32&quot;"
 				IgnoreAllDefaultLibraries="false"
 				ModuleDefinitionFile=".\zeroconf.resolve.def"
 				GenerateDebugInformation="false"
@@ -249,43 +249,43 @@
 			Name="zeroconf"
 			>
 			<File
-				RelativePath="..\..\zeroconf\CriticalSection.cpp"
+				RelativePath="..\zeroconf\CriticalSection.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\CriticalSection.h"
+				RelativePath="..\zeroconf\CriticalSection.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\NetService.cpp"
+				RelativePath="..\zeroconf\NetService.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\NetService.h"
+				RelativePath="..\zeroconf\NetService.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\NetServiceBrowser.cpp"
+				RelativePath="..\zeroconf\NetServiceBrowser.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\NetServiceBrowser.h"
+				RelativePath="..\zeroconf\NetServiceBrowser.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\NetServiceThread.cpp"
+				RelativePath="..\zeroconf\NetServiceThread.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\NetServiceThread.h"
+				RelativePath="..\zeroconf\NetServiceThread.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\Thread.cpp"
+				RelativePath="..\zeroconf\Thread.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\..\zeroconf\Thread.h"
+				RelativePath="..\zeroconf\Thread.h"
 				>
 			</File>
 		</Filter>
