@@ -1,0 +1,467 @@
+// !$*UTF8*$!
+{
+	0101E0F81338B06A003B88AA /* Challenge.cpp:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0122EB9F13378A7200AFC923 /* Challenge.cpp */;
+		functionName = "Challenge::testBadParse()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = cassiel.mac2;
+		modificationTime = 322489509.387035;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0101E1581338C04F003B88AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01A9857E1337BB2600E6A46A /* cassiel.mac2.h */;
+		name = "cassiel.mac2.h: 33";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 39;
+	};
+	0101E1671338C230003B88AA /* Licencing.cpp:134 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0122EB9C13378A7200AFC923 /* Licencing.cpp */;
+		functionName = "Licencing::testHACK()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 134;
+		location = cassiel.mac2;
+		modificationTime = 322489509.387077;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0101E1861338C43E003B88AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0122EB911337891500AFC923 /* Licencing.h */;
+		name = "Licencing.h: 27";
+		rLen = 76;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 1016;
+		vrLoc = 0;
+	};
+	0101E1971338C61C003B88AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */;
+		name = "cassiel.mac2.cpp: 176";
+		rLen = 0;
+		rLoc = 4952;
+		rType = 0;
+		vrLen = 954;
+		vrLoc = 4347;
+	};
+	0122EB911337891500AFC923 /* Licencing.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Licencing.h;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Licencing.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 602}}";
+			sepNavSelRange = "{615, 76}";
+			sepNavVisRange = "{0, 1016}";
+		};
+	};
+	0122EB9C13378A7200AFC923 /* Licencing.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = Licencing.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Licencing.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 3234}}";
+			sepNavSelRange = "{2171, 0}";
+			sepNavVisRange = "{1861, 722}";
+		};
+	};
+	0122EB9E13378A7200AFC923 /* Signature.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = Signature.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Signature.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 1540}}";
+			sepNavSelRange = "{148, 0}";
+			sepNavVisRange = "{0, 650}";
+		};
+	};
+	0122EB9F13378A7200AFC923 /* Challenge.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = Challenge.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Challenge.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 3542}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 828}";
+		};
+	};
+	0122EBA313378A7200AFC923 /* LicenceFile_MOCK.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = LicenceFile_MOCK.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/LicenceFile_MOCK.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 542}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 685}";
+		};
+	};
+	0122EBA413378A7200AFC923 /* LicenceFile.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = LicenceFile.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/LicenceFile.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 1554}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 923}";
+			sepNavWindowFrame = "{{121, 264}, {1223, 718}}";
+		};
+	};
+	0123744E1386A43A00FA93E6 /* zeroconf.browser.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1299, 3206}}";
+			sepNavSelRange = "{1327, 0}";
+			sepNavVisRange = "{610, 1044}";
+		};
+	};
+	012375711386A46600FA93E6 /* NetServiceThread.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 1008}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 844}";
+		};
+	};
+	012375861386A4D600FA93E6 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Zeroconf/NetServiceBrowser.h: No such file or directory";
+		fRef = 0123744E1386A43A00FA93E6 /* zeroconf.browser.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 29;
+		rType = 1;
+	};
+	012375871386A4D600FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0123744E1386A43A00FA93E6 /* zeroconf.browser.cpp */;
+		name = "zeroconf.browser.cpp: 30";
+		rLen = 0;
+		rLoc = 1327;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 610;
+	};
+	016054B512456356001A8B8C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	016054B612456356001A8B8C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0164BE9B1338C91400C5F93E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0122EB9F13378A7200AFC923 /* Challenge.cpp */;
+		name = "Challenge.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 0;
+	};
+	0164BE9C1338C91400C5F93E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0122EBA313378A7200AFC923 /* LicenceFile_MOCK.cpp */;
+		name = "LicenceFile_MOCK.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 0;
+	};
+	0164BEC21338CB7C00C5F93E /* Challenge.cpp:158 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0122EB9F13378A7200AFC923 /* Challenge.cpp */;
+		functionName = "Challenge::testMatch()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 158;
+		location = cassiel.mac2;
+		modificationTime = 322489509.386831;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0185B862135EED9100AF41D6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */;
+	};
+	0185B863135EEDA800AF41D6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
+	};
+	0185B864135F24ED00AF41D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
+		name = "LicenceFile.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 923;
+		vrLoc = 0;
+	};
+	0185B865135F24ED00AF41D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
+		name = "LicenceFile.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 923;
+		vrLoc = 0;
+	};
+	0185B86A135F24ED00AF41D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
+		name = "LicenceFile.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 1131;
+	};
+	0185B86D135F24ED00AF41D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */;
+		name = "cassiel.mac2.cpp: 176";
+		rLen = 0;
+		rLoc = 4952;
+		rType = 0;
+		vrLen = 974;
+		vrLoc = 3510;
+	};
+	01A9857E1337BB2600E6A46A /* cassiel.mac2.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = cassiel.mac2.h;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/cassiel.mac2.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 490}}";
+			sepNavSelRange = "{1070, 0}";
+			sepNavVisRange = "{39, 1132}";
+		};
+	};
+	01A985BB1337C7B100E6A46A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0122EB9E13378A7200AFC923 /* Signature.cpp */;
+		name = "Signature.cpp: 8";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 0;
+	};
+	01A985BC1337C7B100E6A46A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01A985BD1337C7B100E6A46A /* Signature.h */;
+		name = "Signature.h: 12";
+		rLen = 1;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 19;
+	};
+	01A985BD1337C7B100E6A46A /* Signature.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Signature.h;
+		path = "/Users/nick/CASSIEL/DEVELOPMENT/max-native/cassiel.mac2/Signature.h";
+		sourceTree = "<absolute>";
+	};
+	01C7D1221315408D009A09BE /* GetMac.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = GetMac.h;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/GetMac.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1299, 756}}";
+			sepNavSelRange = "{158, 0}";
+			sepNavVisRange = "{0, 785}";
+		};
+	};
+	01C7D12413154098009A09BE /* MacAddress.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = MacAddress.h;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/MacAddress.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {829, 458}}";
+			sepNavSelRange = "{523, 22}";
+			sepNavVisRange = "{0, 650}";
+		};
+	};
+	01C7D1361315422F009A09BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01C7D12413154098009A09BE /* MacAddress.h */;
+		name = "MacAddress.h: 24";
+		rLen = 22;
+		rLoc = 525;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 0;
+	};
+	01C7D13F13154295009A09BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01C7D1221315408D009A09BE /* GetMac.h */;
+		name = "GetMac.h: 10";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 157;
+	};
+	01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = cassiel.mac2.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/cassiel.mac2.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 2842}}";
+			sepNavSelRange = "{4952, 0}";
+			sepNavVisRange = "{3510, 974}";
+			sepNavWindowFrame = "{{239, 7}, {1223, 718}}";
+		};
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Development;
+		activeTarget = 2FBBEAD608F335360078DB84 /* max-external */;
+		addToTargets = (
+			2FBBEAD608F335360078DB84 /* max-external */,
+		);
+		breakpoints = (
+			0101E0F81338B06A003B88AA /* Challenge.cpp:243 */,
+			0101E1671338C230003B88AA /* Licencing.cpp:134 */,
+			0164BEC21338CB7C00C5F93E /* Challenge.cpp:158 */,
+		);
+		codeSenseManager = 016054B612456356001A8B8C /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					728,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					611,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327590539;
+			PBXWorkspaceStateSaveDate = 327590539;
+		};
+		perUserProjectItems = {
+			0101E1581338C04F003B88AA = 0101E1581338C04F003B88AA /* PBXTextBookmark */;
+			0101E1861338C43E003B88AA = 0101E1861338C43E003B88AA /* PBXTextBookmark */;
+			0101E1971338C61C003B88AA = 0101E1971338C61C003B88AA /* PBXTextBookmark */;
+			012375861386A4D600FA93E6 /* XCBuildMessageTextBookmark */ = 012375861386A4D600FA93E6 /* XCBuildMessageTextBookmark */;
+			012375871386A4D600FA93E6 /* PBXTextBookmark */ = 012375871386A4D600FA93E6 /* PBXTextBookmark */;
+			0164BE9B1338C91400C5F93E = 0164BE9B1338C91400C5F93E /* PBXTextBookmark */;
+			0164BE9C1338C91400C5F93E = 0164BE9C1338C91400C5F93E /* PBXTextBookmark */;
+			0185B862135EED9100AF41D6 = 0185B862135EED9100AF41D6 /* PBXBookmark */;
+			0185B863135EEDA800AF41D6 = 0185B863135EEDA800AF41D6 /* PBXBookmark */;
+			0185B864135F24ED00AF41D6 = 0185B864135F24ED00AF41D6 /* PBXTextBookmark */;
+			0185B865135F24ED00AF41D6 = 0185B865135F24ED00AF41D6 /* PBXTextBookmark */;
+			0185B86A135F24ED00AF41D6 = 0185B86A135F24ED00AF41D6 /* PBXTextBookmark */;
+			0185B86D135F24ED00AF41D6 = 0185B86D135F24ED00AF41D6 /* PBXTextBookmark */;
+			01A985BB1337C7B100E6A46A = 01A985BB1337C7B100E6A46A /* PBXTextBookmark */;
+			01A985BC1337C7B100E6A46A = 01A985BC1337C7B100E6A46A /* PBXTextBookmark */;
+			01C7D1361315422F009A09BE = 01C7D1361315422F009A09BE /* PBXTextBookmark */;
+			01C7D13F13154295009A09BE = 01C7D13F13154295009A09BE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 016054B512456356001A8B8C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2FBBEAD608F335360078DB84 /* max-external */ = {
+		activeExec = 0;
+	};
+}
