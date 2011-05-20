@@ -29,7 +29,7 @@
 #define ZeroConf_NetServiceThread_H
 
 #include <string>
-#include "Thread.h"
+#include "../zeroconf/Thread.h"
 #include "dns_sd.h"
 
 namespace ZeroConf 

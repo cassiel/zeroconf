@@ -1,4 +1,4 @@
-#include "zeroconf/CriticalSection.h"
+#include "../zeroconf/CriticalSection.h"
 #include <cassert>
 
 using namespace ZeroConf;

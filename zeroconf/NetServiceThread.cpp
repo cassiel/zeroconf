@@ -1,4 +1,4 @@
-#include "NetServiceThread.h"
+#include "../zeroconf/NetServiceThread.h"
 #include <cassert>
 #include <cmath>
 #include <iostream>

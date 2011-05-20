@@ -18,16 +18,6 @@
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
-	0101E1581338C04F003B88AA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 01A9857E1337BB2600E6A46A /* cassiel.mac2.h */;
-		name = "cassiel.mac2.h: 33";
-		rLen = 0;
-		rLoc = 1070;
-		rType = 0;
-		vrLen = 1132;
-		vrLoc = 39;
-	};
 	0101E1671338C230003B88AA /* Licencing.cpp:134 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
@@ -46,39 +36,6 @@
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
-	0101E1861338C43E003B88AA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 0122EB911337891500AFC923 /* Licencing.h */;
-		name = "Licencing.h: 27";
-		rLen = 76;
-		rLoc = 615;
-		rType = 0;
-		vrLen = 1016;
-		vrLoc = 0;
-	};
-	0101E1971338C61C003B88AA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */;
-		name = "cassiel.mac2.cpp: 176";
-		rLen = 0;
-		rLoc = 4952;
-		rType = 0;
-		vrLen = 954;
-		vrLoc = 4347;
-	};
-	0122EB911337891500AFC923 /* Licencing.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = Licencing.h;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Licencing.h";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {906, 602}}";
-			sepNavSelRange = "{615, 76}";
-			sepNavVisRange = "{0, 1016}";
-		};
-	};
 	0122EB9C13378A7200AFC923 /* Licencing.cpp */ = {
 		isa = PBXFileReference;
 		fileEncoding = 4;
@@ -86,24 +43,6 @@
 		name = Licencing.cpp;
 		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Licencing.cpp";
 		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1083, 3234}}";
-			sepNavSelRange = "{2171, 0}";
-			sepNavVisRange = "{1861, 722}";
-		};
-	};
-	0122EB9E13378A7200AFC923 /* Signature.cpp */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.cpp.cpp;
-		name = Signature.cpp;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Signature.cpp";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {906, 1540}}";
-			sepNavSelRange = "{148, 0}";
-			sepNavVisRange = "{0, 650}";
-		};
 	};
 	0122EB9F13378A7200AFC923 /* Challenge.cpp */ = {
 		isa = PBXFileReference;
@@ -112,71 +51,184 @@
 		name = Challenge.cpp;
 		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Challenge.cpp";
 		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {906, 3542}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 828}";
-		};
-	};
-	0122EBA313378A7200AFC923 /* LicenceFile_MOCK.cpp */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.cpp.cpp;
-		name = LicenceFile_MOCK.cpp;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/LicenceFile_MOCK.cpp";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {906, 542}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 685}";
-		};
-	};
-	0122EBA413378A7200AFC923 /* LicenceFile.cpp */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.cpp.cpp;
-		name = LicenceFile.cpp;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/LicenceFile.cpp";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {906, 1554}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 923}";
-			sepNavWindowFrame = "{{121, 264}, {1223, 718}}";
-		};
 	};
 	0123744E1386A43A00FA93E6 /* zeroconf.browser.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1299, 3206}}";
-			sepNavSelRange = "{1327, 0}";
-			sepNavVisRange = "{610, 1044}";
+			sepNavIntBoundsRect = "{{0, 0}, {906, 3206}}";
+			sepNavSelRange = "{1501, 0}";
+			sepNavVisRange = "{374, 1322}";
+		};
+	};
+	0123756B1386A46600FA93E6 /* CriticalSection.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 952}}";
+			sepNavSelRange = "{10, 12}";
+			sepNavVisRange = "{0, 807}";
+		};
+	};
+	0123756C1386A46600FA93E6 /* CriticalSection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 616}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 638}";
+			sepNavWindowFrame = "{{15, 155}, {1223, 718}}";
+		};
+	};
+	0123756D1386A46600FA93E6 /* NetService.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 3990}}";
+			sepNavSelRange = "{1378, 0}";
+			sepNavVisRange = "{0, 1593}";
+		};
+	};
+	0123756E1386A46600FA93E6 /* NetService.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 2338}}";
+			sepNavSelRange = "{1379, 0}";
+			sepNavVisRange = "{0, 1488}";
+		};
+	};
+	0123756F1386A46600FA93E6 /* NetServiceBrowser.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 2310}}";
+			sepNavSelRange = "{1379, 0}";
+			sepNavVisRange = "{0, 1599}";
+		};
+	};
+	012375701386A46600FA93E6 /* NetServiceBrowser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1582}}";
+			sepNavSelRange = "{1375, 0}";
+			sepNavVisRange = "{110, 1468}";
 		};
 	};
 	012375711386A46600FA93E6 /* NetServiceThread.cpp */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {906, 1008}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 844}";
+			sepNavSelRange = "{22, 0}";
+			sepNavVisRange = "{0, 856}";
 		};
 	};
-	012375861386A4D600FA93E6 /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "Zeroconf/NetServiceBrowser.h: No such file or directory";
-		fRef = 0123744E1386A43A00FA93E6 /* zeroconf.browser.cpp */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 29;
-		rType = 1;
+	012375721386A46600FA93E6 /* NetServiceThread.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 728}}";
+			sepNavSelRange = "{1391, 0}";
+			sepNavVisRange = "{0, 1489}";
+		};
 	};
-	012375871386A4D600FA93E6 /* PBXTextBookmark */ = {
+	012375731386A46600FA93E6 /* Thread.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 2366}}";
+			sepNavSelRange = "{1300, 0}";
+			sepNavVisRange = "{0, 1500}";
+		};
+	};
+	012375741386A46600FA93E6 /* Thread.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 868}}";
+			sepNavSelRange = "{1354, 0}";
+			sepNavVisRange = "{3, 1436}";
+		};
+	};
+	012375BE1386BCBA00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0123756B1386A46600FA93E6 /* CriticalSection.cpp */;
+		name = "CriticalSection.cpp: 1";
+		rLen = 12;
+		rLoc = 10;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 0;
+	};
+	012375BF1386BCBA00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0123756D1386A46600FA93E6 /* NetService.cpp */;
+		name = "NetService.cpp: 30";
+		rLen = 0;
+		rLoc = 1378;
+		rType = 0;
+		vrLen = 1593;
+		vrLoc = 0;
+	};
+	012375C01386BCBA00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0123756F1386A46600FA93E6 /* NetServiceBrowser.cpp */;
+		name = "NetServiceBrowser.cpp: 30";
+		rLen = 0;
+		rLoc = 1379;
+		rType = 0;
+		vrLen = 1599;
+		vrLoc = 0;
+	};
+	012375C11386BCBA00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 012375711386A46600FA93E6 /* NetServiceThread.cpp */;
+		name = "NetServiceThread.cpp: 1";
+		rLen = 0;
+		rLoc = 22;
+		rType = 0;
+		vrLen = 856;
+		vrLoc = 0;
+	};
+	012375C21386BCBA00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 012375731386A46600FA93E6 /* Thread.cpp */;
+		name = "Thread.cpp: 28";
+		rLen = 0;
+		rLoc = 1300;
+		rType = 0;
+		vrLen = 1500;
+		vrLoc = 0;
+	};
+	012375D11386C79B00FA93E6 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 0123744E1386A43A00FA93E6 /* zeroconf.browser.cpp */;
-		name = "zeroconf.browser.cpp: 30";
+		name = "zeroconf.browser.cpp: 36";
 		rLen = 0;
-		rLoc = 1327;
+		rLoc = 1501;
 		rType = 0;
-		vrLen = 1044;
-		vrLoc = 610;
+		vrLen = 1322;
+		vrLoc = 374;
+	};
+	012375D21386C79B00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0123756C1386A46600FA93E6 /* CriticalSection.h */;
+		name = "CriticalSection.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	012375D31386C79B00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0123756E1386A46600FA93E6 /* NetService.h */;
+		name = "NetService.h: 32";
+		rLen = 0;
+		rLoc = 1379;
+		rType = 0;
+		vrLen = 1488;
+		vrLoc = 0;
+	};
+	012375D41386C79B00FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 012375701386A46600FA93E6 /* NetServiceBrowser.h */;
+		name = "NetServiceBrowser.h: 31";
+		rLen = 0;
+		rLoc = 1375;
+		rType = 0;
+		vrLen = 1539;
+		vrLoc = 39;
+	};
+	012376191386CD8900FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 012375701386A46600FA93E6 /* NetServiceBrowser.h */;
+		name = "NetServiceBrowser.h: 31";
+		rLen = 0;
+		rLoc = 1375;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 110;
 	};
 	016054B512456356001A8B8C /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -191,26 +243,6 @@
 	016054B612456356001A8B8C /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	0164BE9B1338C91400C5F93E /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 0122EB9F13378A7200AFC923 /* Challenge.cpp */;
-		name = "Challenge.cpp: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 828;
-		vrLoc = 0;
-	};
-	0164BE9C1338C91400C5F93E /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 0122EBA313378A7200AFC923 /* LicenceFile_MOCK.cpp */;
-		name = "LicenceFile_MOCK.cpp: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 685;
-		vrLoc = 0;
 	};
 	0164BEC21338CB7C00C5F93E /* Challenge.cpp:158 */ = {
 		isa = PBXFileBreakpoint;
@@ -230,77 +262,6 @@
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
-	0185B862135EED9100AF41D6 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */;
-	};
-	0185B863135EEDA800AF41D6 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
-	};
-	0185B864135F24ED00AF41D6 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
-		name = "LicenceFile.cpp: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 923;
-		vrLoc = 0;
-	};
-	0185B865135F24ED00AF41D6 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
-		name = "LicenceFile.cpp: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 923;
-		vrLoc = 0;
-	};
-	0185B86A135F24ED00AF41D6 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 0122EBA413378A7200AFC923 /* LicenceFile.cpp */;
-		name = "LicenceFile.cpp: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1067;
-		vrLoc = 1131;
-	};
-	0185B86D135F24ED00AF41D6 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */;
-		name = "cassiel.mac2.cpp: 176";
-		rLen = 0;
-		rLoc = 4952;
-		rType = 0;
-		vrLen = 974;
-		vrLoc = 3510;
-	};
-	01A9857E1337BB2600E6A46A /* cassiel.mac2.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = cassiel.mac2.h;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/cassiel.mac2.h";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {906, 490}}";
-			sepNavSelRange = "{1070, 0}";
-			sepNavVisRange = "{39, 1132}";
-		};
-	};
-	01A985BB1337C7B100E6A46A /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 0122EB9E13378A7200AFC923 /* Signature.cpp */;
-		name = "Signature.cpp: 8";
-		rLen = 0;
-		rLoc = 148;
-		rType = 0;
-		vrLen = 650;
-		vrLoc = 0;
-	};
 	01A985BC1337C7B100E6A46A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 01A985BD1337C7B100E6A46A /* Signature.h */;
@@ -318,68 +279,8 @@
 		path = "/Users/nick/CASSIEL/DEVELOPMENT/max-native/cassiel.mac2/Signature.h";
 		sourceTree = "<absolute>";
 	};
-	01C7D1221315408D009A09BE /* GetMac.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = GetMac.h;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/GetMac.h";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1299, 756}}";
-			sepNavSelRange = "{158, 0}";
-			sepNavVisRange = "{0, 785}";
-		};
-	};
-	01C7D12413154098009A09BE /* MacAddress.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = MacAddress.h;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/MacAddress.h";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {829, 458}}";
-			sepNavSelRange = "{523, 22}";
-			sepNavVisRange = "{0, 650}";
-		};
-	};
-	01C7D1361315422F009A09BE /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 01C7D12413154098009A09BE /* MacAddress.h */;
-		name = "MacAddress.h: 24";
-		rLen = 22;
-		rLoc = 525;
-		rType = 0;
-		vrLen = 650;
-		vrLoc = 0;
-	};
-	01C7D13F13154295009A09BE /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 01C7D1221315408D009A09BE /* GetMac.h */;
-		name = "GetMac.h: 10";
-		rLen = 0;
-		rLoc = 158;
-		rType = 0;
-		vrLen = 871;
-		vrLoc = 157;
-	};
-	01D0F2E312A2C8D9002C4E19 /* cassiel.mac2.cpp */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.cpp.cpp;
-		name = cassiel.mac2.cpp;
-		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/cassiel.mac2.cpp";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1164, 2842}}";
-			sepNavSelRange = "{4952, 0}";
-			sepNavVisRange = "{3510, 974}";
-			sepNavWindowFrame = "{{239, 7}, {1223, 718}}";
-		};
-	};
 	089C1669FE841209C02AAC07 /* Project object */ = {
-		activeBuildConfigurationName = Development;
+		activeBuildConfigurationName = Deployment;
 		activeTarget = 2FBBEAD608F335360078DB84 /* max-external */;
 		addToTargets = (
 			2FBBEAD608F335360078DB84 /* max-external */,
@@ -435,27 +336,21 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 327590539;
-			PBXWorkspaceStateSaveDate = 327590539;
+			PBXPerProjectTemplateStateSaveDate = 327601511;
+			PBXWorkspaceStateSaveDate = 327601511;
 		};
 		perUserProjectItems = {
-			0101E1581338C04F003B88AA = 0101E1581338C04F003B88AA /* PBXTextBookmark */;
-			0101E1861338C43E003B88AA = 0101E1861338C43E003B88AA /* PBXTextBookmark */;
-			0101E1971338C61C003B88AA = 0101E1971338C61C003B88AA /* PBXTextBookmark */;
-			012375861386A4D600FA93E6 /* XCBuildMessageTextBookmark */ = 012375861386A4D600FA93E6 /* XCBuildMessageTextBookmark */;
-			012375871386A4D600FA93E6 /* PBXTextBookmark */ = 012375871386A4D600FA93E6 /* PBXTextBookmark */;
-			0164BE9B1338C91400C5F93E = 0164BE9B1338C91400C5F93E /* PBXTextBookmark */;
-			0164BE9C1338C91400C5F93E = 0164BE9C1338C91400C5F93E /* PBXTextBookmark */;
-			0185B862135EED9100AF41D6 = 0185B862135EED9100AF41D6 /* PBXBookmark */;
-			0185B863135EEDA800AF41D6 = 0185B863135EEDA800AF41D6 /* PBXBookmark */;
-			0185B864135F24ED00AF41D6 = 0185B864135F24ED00AF41D6 /* PBXTextBookmark */;
-			0185B865135F24ED00AF41D6 = 0185B865135F24ED00AF41D6 /* PBXTextBookmark */;
-			0185B86A135F24ED00AF41D6 = 0185B86A135F24ED00AF41D6 /* PBXTextBookmark */;
-			0185B86D135F24ED00AF41D6 = 0185B86D135F24ED00AF41D6 /* PBXTextBookmark */;
-			01A985BB1337C7B100E6A46A = 01A985BB1337C7B100E6A46A /* PBXTextBookmark */;
-			01A985BC1337C7B100E6A46A = 01A985BC1337C7B100E6A46A /* PBXTextBookmark */;
-			01C7D1361315422F009A09BE = 01C7D1361315422F009A09BE /* PBXTextBookmark */;
-			01C7D13F13154295009A09BE = 01C7D13F13154295009A09BE /* PBXTextBookmark */;
+			012375BE1386BCBA00FA93E6 /* PBXTextBookmark */ = 012375BE1386BCBA00FA93E6 /* PBXTextBookmark */;
+			012375BF1386BCBA00FA93E6 /* PBXTextBookmark */ = 012375BF1386BCBA00FA93E6 /* PBXTextBookmark */;
+			012375C01386BCBA00FA93E6 /* PBXTextBookmark */ = 012375C01386BCBA00FA93E6 /* PBXTextBookmark */;
+			012375C11386BCBA00FA93E6 /* PBXTextBookmark */ = 012375C11386BCBA00FA93E6 /* PBXTextBookmark */;
+			012375C21386BCBA00FA93E6 /* PBXTextBookmark */ = 012375C21386BCBA00FA93E6 /* PBXTextBookmark */;
+			012375D11386C79B00FA93E6 /* PBXTextBookmark */ = 012375D11386C79B00FA93E6 /* PBXTextBookmark */;
+			012375D21386C79B00FA93E6 /* PBXTextBookmark */ = 012375D21386C79B00FA93E6 /* PBXTextBookmark */;
+			012375D31386C79B00FA93E6 /* PBXTextBookmark */ = 012375D31386C79B00FA93E6 /* PBXTextBookmark */;
+			012375D41386C79B00FA93E6 /* PBXTextBookmark */ = 012375D41386C79B00FA93E6 /* PBXTextBookmark */;
+			012376191386CD8900FA93E6 /* PBXTextBookmark */ = 012376191386CD8900FA93E6 /* PBXTextBookmark */;
+			01A985BC1337C7B100E6A46A /* PBXTextBookmark */ = 01A985BC1337C7B100E6A46A /* PBXTextBookmark */;
 		};
 		sourceControlManager = 016054B512456356001A8B8C /* Source Control */;
 		userBuildSettings = {

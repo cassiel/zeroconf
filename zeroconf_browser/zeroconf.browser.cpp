@@ -27,9 +27,9 @@
 
 #include "ext.h"				
 #include "ext_obex.h"						
-#include "zeroconf/NetServiceBrowser.h"
-#include "zeroconf/NetService.h"
-#include "zeroconf/NetServiceThread.h"
+#include "../zeroconf/NetServiceBrowser.h"
+#include "../zeroconf/NetService.h"
+#include "../zeroconf/NetServiceThread.h"
 #include <iostream>
 #include <string>
 #include <set>
