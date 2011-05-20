@@ -1,12 +1,11 @@
 This is a release of Rémy Muller's zeroconf objects for MaxMSP. The
-sources are here, including projects for OS X (Xcode) and Windows
+sources are here, including projects for OS X (Xcode 3.2) and Windows
 (Visual Studio Express 2008).
 
-Both builds are now current. The Xcode build (for Xcode 3.x) creates
-Max externals as universal binaries, compatible with OS X 10.4 (Tiger)
-onwards.
+Both builds are now current. The Xcode build creates Max externals as
+universal binaries, compatible with OS X 10.4 (Tiger) onwards.
 
-The directory `dist' contains binaries.
+The directory `dist' contains prebuilt binaries.
 
 Windows issues:
 
@@ -25,13 +24,13 @@ We've also taken the liberty of including the installer package here
 
 OS X issues:
 
-I've made some slight mods to maxmspsdk.xcconfig - we plant
+I've made some slight mods to maxmspsdk.xcconfig - I plant
 `sdk-build' at the same level as `zeroconf' (rather than one level
 up). Also, there's an Info.plist for each project, rather than the
 common Cycling '74 one (with Cycling '74's copyright notice and other
 boilerplate).
 
-For both builds, put the c74support directory from the DSK into the
+For both builds, put the `c74support' directory from the SDK into the
 same directory as `zeroconf' - I didn't want to put this into Github
 since it's big and rather untidy.
 
