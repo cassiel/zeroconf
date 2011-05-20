@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	0101E0F81338B06A003B88AA /* Challenge.cpp:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0122EB9F13378A7200AFC923 /* Challenge.cpp */;
+		functionName = "Challenge::testBadParse()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = cassiel.mac2;
+		modificationTime = 322489509.387035;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0101E1671338C230003B88AA /* Licencing.cpp:134 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0122EB9C13378A7200AFC923 /* Licencing.cpp */;
+		functionName = "Licencing::testHACK()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 134;
+		location = cassiel.mac2;
+		modificationTime = 322489509.387077;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0122EB9C13378A7200AFC923 /* Licencing.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = Licencing.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Licencing.cpp";
+		sourceTree = "<absolute>";
+	};
+	0122EB9F13378A7200AFC923 /* Challenge.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = Challenge.cpp;
+		path = "/Users/nick/CASSIEL-GIT/zeroconf/zeroconf_browser/Challenge.cpp";
+		sourceTree = "<absolute>";
+	};
+	0123756B1386A46600FA93E6 /* CriticalSection.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 952}}";
+			sepNavSelRange = "{10, 12}";
+			sepNavVisRange = "{0, 807}";
+		};
+	};
+	0123756C1386A46600FA93E6 /* CriticalSection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 616}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 638}";
+			sepNavWindowFrame = "{{15, 155}, {1223, 718}}";
+		};
+	};
+	0123756D1386A46600FA93E6 /* NetService.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 3990}}";
+			sepNavSelRange = "{1378, 0}";
+			sepNavVisRange = "{0, 1593}";
+		};
+	};
+	0123756E1386A46600FA93E6 /* NetService.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 2338}}";
+			sepNavSelRange = "{1379, 0}";
+			sepNavVisRange = "{0, 1488}";
+		};
+	};
+	0123756F1386A46600FA93E6 /* NetServiceBrowser.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 2310}}";
+			sepNavSelRange = "{1379, 0}";
+			sepNavVisRange = "{0, 1599}";
+		};
+	};
+	012375701386A46600FA93E6 /* NetServiceBrowser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1582}}";
+			sepNavSelRange = "{1375, 0}";
+			sepNavVisRange = "{39, 1539}";
+		};
+	};
+	012375711386A46600FA93E6 /* NetServiceThread.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 1008}}";
+			sepNavSelRange = "{22, 0}";
+			sepNavVisRange = "{0, 856}";
+		};
+	};
+	012375721386A46600FA93E6 /* NetServiceThread.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 728}}";
+			sepNavSelRange = "{1391, 0}";
+			sepNavVisRange = "{0, 1501}";
+		};
+	};
+	012375731386A46600FA93E6 /* Thread.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 2366}}";
+			sepNavSelRange = "{1300, 0}";
+			sepNavVisRange = "{0, 1500}";
+		};
+	};
+	012375741386A46600FA93E6 /* Thread.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {906, 812}}";
+			sepNavSelRange = "{1342, 0}";
+			sepNavVisRange = "{0, 1427}";
+		};
+	};
+	012375D91386C7BE00FA93E6 /* zeroconf.resolve.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1299, 2394}}";
+			sepNavSelRange = "{107, 0}";
+			sepNavVisRange = "{0, 601}";
+		};
+	};
+	012375E31386C80A00FA93E6 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Zeroconf/NetService.h: No such file or directory";
+		fRef = 012375D91386C7BE00FA93E6 /* zeroconf.resolve.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 5;
+		rType = 1;
+	};
+	012376131386CD8900FA93E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 012375D91386C7BE00FA93E6 /* zeroconf.resolve.cpp */;
+		name = "zeroconf.resolve.cpp: 19";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 0;
+	};
+	016054B512456356001A8B8C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	016054B612456356001A8B8C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0164BEC21338CB7C00C5F93E /* Challenge.cpp:158 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0122EB9F13378A7200AFC923 /* Challenge.cpp */;
+		functionName = "Challenge::testMatch()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 158;
+		location = cassiel.mac2;
+		modificationTime = 322489509.386831;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	01A985BC1337C7B100E6A46A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01A985BD1337C7B100E6A46A /* Signature.h */;
+		name = "Signature.h: 12";
+		rLen = 1;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 19;
+	};
+	01A985BD1337C7B100E6A46A /* Signature.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Signature.h;
+		path = "/Users/nick/CASSIEL/DEVELOPMENT/max-native/cassiel.mac2/Signature.h";
+		sourceTree = "<absolute>";
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 2FBBEAD608F335360078DB84 /* max-external */;
+		addToTargets = (
+			2FBBEAD608F335360078DB84 /* max-external */,
+		);
+		breakpoints = (
+			0101E0F81338B06A003B88AA /* Challenge.cpp:243 */,
+			0101E1671338C230003B88AA /* Licencing.cpp:134 */,
+			0164BEC21338CB7C00C5F93E /* Challenge.cpp:158 */,
+		);
+		codeSenseManager = 016054B612456356001A8B8C /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					728,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					611,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327600017;
+			PBXWorkspaceStateSaveDate = 327600017;
+		};
+		perUserProjectItems = {
+			012375E31386C80A00FA93E6 /* XCBuildMessageTextBookmark */ = 012375E31386C80A00FA93E6 /* XCBuildMessageTextBookmark */;
+			012376131386CD8900FA93E6 /* PBXTextBookmark */ = 012376131386CD8900FA93E6 /* PBXTextBookmark */;
+			01A985BC1337C7B100E6A46A /* PBXTextBookmark */ = 01A985BC1337C7B100E6A46A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 016054B512456356001A8B8C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2FBBEAD608F335360078DB84 /* max-external */ = {
+		activeExec = 0;
+	};
+}
