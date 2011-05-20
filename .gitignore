@@ -2,3 +2,6 @@ maxmspsdk.xcconfig
 c74support
 sdk-build
 build
+ext_win_*
+*.ncb
+*.suo
