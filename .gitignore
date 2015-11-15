@@ -5,3 +5,5 @@ build
 ext_win_*
 *.ncb
 *.suo
+cassiel.zeroconf/externals/*.mxe
+cassiel.zeroconf/externals/*.mxo
