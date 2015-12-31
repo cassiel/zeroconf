@@ -10,3 +10,4 @@ cassiel.zeroconf/externals/*.mxe
 cassiel.zeroconf/externals/*.mxo
 project.xcworkspace
 xcuserdata
+.DS_Store
