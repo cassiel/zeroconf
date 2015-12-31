@@ -1,5 +1,6 @@
 maxmspsdk.xcconfig
 c74support
+externals
 sdk-build
 build
 ext_win_*
@@ -7,3 +8,5 @@ ext_win_*
 *.suo
 cassiel.zeroconf/externals/*.mxe
 cassiel.zeroconf/externals/*.mxo
+project.xcworkspace
+xcuserdata

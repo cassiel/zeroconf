@@ -7,7 +7,7 @@ This is a release of Rémy Muller's zeroconf objects for MaxMSP. The sources are
 
 Both builds are now current. The Xcode build creates Max externals as universal binaries, compatible with OS X 10.4 (Tiger) onwards.
 
-* Usage
+** Usage
 
 - The directory =cassiel.zeroconf= is laid out as a Max 7 package and contains everything *except* the native binaries, since those (at least on OS X) are bundles, and are rather untidy to check into Git directly. The zipped bundles are in folder =zipped-externals=. Unpack the OS X or Windows file as required, and copy all =.mxe= or =.mxo= files into =cassiel.zeroconf/externals=.
 
@@ -15,12 +15,9 @@ Both builds are now current. The Xcode build creates Max externals as universal 
 
 ** Windows Issues
 
-- You need to install Apple's Bonjour for Windows (known as Bonjour Print Services). Download link here:
+- You need to install Apple's Bonjour for Windows (known as Bonjour Print Services). Download link [[http://support.apple.com/kb/dl999][here]].
 
-  <http://support.apple.com/kb/dl999>
-
-- The Zeroconf objects need a Visual C++ runtime library in order to work. Download link here:
-  <http://www.microsoft.com/downloads/en/details.aspx?FamilyID=9b2da534-3e03-4391-8a4d-074b9f2bc1bf&displaylang=en&pf=true>
+- The Zeroconf objects need a Visual C++ runtime library in order to work. Download link [[http://www.microsoft.com/downloads/en/details.aspx?FamilyID=9b2da534-3e03-4391-8a4d-074b9f2bc1bf&displaylang=en&pf=true][here]].
 
   We've also taken the liberty of including the installer package here (since it is, after all, "redistributable").
 
@@ -30,12 +27,10 @@ Both builds are now current. The Xcode build creates Max externals as universal 
 
 - For both builds, put the `c74support' directory from the SDK into the same directory as `zeroconf' - I didn't want to put this into Github since it's big and rather untidy.
 
-Nick Rothwell, nick@cassiel.com, 2011-05-20.
-
 ** Revision History
 
-- 2011-05-20 :: Original maintenance port
 - 2015-11-xx :: Revisit to prepare =zeroconf= for Max 7's Package Manager
+- 2011-05-20 :: Original maintenance port
 
 ** Credits
 
